@@ -43,11 +43,7 @@ bank_mlops_project/
 ├── README.md # Project documentation
 └── ...
 
-yaml
-Copy
-Edit
-
----
+--
 
 ## ⚙️ How to Run This Project Locally
 
