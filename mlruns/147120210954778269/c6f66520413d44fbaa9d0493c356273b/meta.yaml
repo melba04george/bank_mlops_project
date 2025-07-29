@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Dell/Desktop/bank_mlops_project/mlruns/147120210954778269/c6f66520413d44fbaa9d0493c356273b/artifacts
+end_time: 1752221449848
+entry_point_name: ''
+experiment_id: '147120210954778269'
+lifecycle_stage: active
+run_id: c6f66520413d44fbaa9d0493c356273b
+run_name: adaptable-grub-92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752221449773
+status: 4
+tags: []
+user_id: Dell

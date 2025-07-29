@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Dell/Desktop/bank_mlops_project/mlruns/147120210954778269/553eebf25d144ed7894f5031c209a643/artifacts
+end_time: 1752222002619
+entry_point_name: ''
+experiment_id: '147120210954778269'
+lifecycle_stage: active
+run_id: 553eebf25d144ed7894f5031c209a643
+run_name: zealous-sloth-487
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752221967270
+status: 3
+tags: []
+user_id: Dell

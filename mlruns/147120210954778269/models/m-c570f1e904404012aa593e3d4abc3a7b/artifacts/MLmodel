@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/Dell/Desktop/bank_mlops_project/mlruns/147120210954778269/models/m-c570f1e904404012aa593e3d4abc3a7b/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.0
+mlflow_version: 3.1.1
+model_id: m-c570f1e904404012aa593e3d4abc3a7b
+model_size_bytes: 2081680
+model_uuid: m-c570f1e904404012aa593e3d4abc3a7b
+prompts: null
+run_id: b4c01f9dbdf44083bc352d89b53320be
+utc_time_created: '2025-07-29 02:33:55.484389'

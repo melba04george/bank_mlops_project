@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Dell/Desktop/bank_mlops_project/mlruns/147120210954778269/c98a087190734f8cb7a5992f0d5481cf/artifacts
+end_time: 1753298363475
+entry_point_name: ''
+experiment_id: '147120210954778269'
+lifecycle_stage: active
+run_id: c98a087190734f8cb7a5992f0d5481cf
+run_name: rumbling-dog-396
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753298316550
+status: 3
+tags: []
+user_id: Dell

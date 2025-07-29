@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Dell/Desktop/bank_mlops_project/mlruns/147120210954778269/models/m-c570f1e904404012aa593e3d4abc3a7b/artifacts
+creation_timestamp: 1753756435397
+experiment_id: '147120210954778269'
+last_updated_timestamp: 1753756476801
+model_id: m-c570f1e904404012aa593e3d4abc3a7b
+model_type: null
+name: model
+source_run_id: b4c01f9dbdf44083bc352d89b53320be
+status: 2
+status_message: null

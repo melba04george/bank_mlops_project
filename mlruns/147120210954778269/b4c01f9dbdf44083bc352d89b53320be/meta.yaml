@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Dell/Desktop/bank_mlops_project/mlruns/147120210954778269/b4c01f9dbdf44083bc352d89b53320be/artifacts
+end_time: 1753756476893
+entry_point_name: ''
+experiment_id: '147120210954778269'
+lifecycle_stage: active
+run_id: b4c01f9dbdf44083bc352d89b53320be
+run_name: indecisive-snail-885
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753756360031
+status: 3
+tags: []
+user_id: Dell
