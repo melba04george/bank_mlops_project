@@ -117,7 +117,4 @@ AWS EC2 / S3 / Lambda (optional)
 
 ✅ Deploy app for public access
 
-📌 Author
-Melba George
-LinkedIn
-GitHub
+
